@@ -17,6 +17,7 @@ function App() {
        <div className=" container contenedor-products d-flex">
         <div className="row">
           <h2 className="text-center mt-5 mb-4">Nuestros productos</h2>
+          <p>Agregando aca los productos con fetch</p>
          
         </div>
         
