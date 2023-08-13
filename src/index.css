@@ -1,0 +1,13 @@
+.Number {
+  width: 90%;
+}
+.btn.btn-secondary.btn-lg.btn-block{
+  font-size: 14px;
+}
+
+.caja-producto {
+  padding: 20px;
+  margin: 10px;
+  background: #f2f2f2;
+  border-radius: 5px;
+}

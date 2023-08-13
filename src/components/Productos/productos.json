@@ -1,0 +1,21 @@
+[{
+    "producto_id": 1,
+    "nombre": "Polera Blanca",
+    "Descripción": "Polera de algodón blanca tamaño XL",
+    "Precio": 23000,
+    "Stock": true
+},
+{
+    "producto_id": 2,
+    "nombre": "Polera Blanca",
+    "Descripción": "Polera de algodón blanca tamaño XL",
+    "Precio": 13000,
+    "Stock": true
+},
+{
+    "producto_id": 3,
+    "nombre": "Chaqueta Impermeable",
+    "Descripción": "Chaqueta para la lluvia para hombre",
+    "Precio": 43000,
+    "Stock": true
+}]
